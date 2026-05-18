@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**johnvidcy-sudo/Johnvidcy-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johnvidcy-sudo/johnvidcy-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
